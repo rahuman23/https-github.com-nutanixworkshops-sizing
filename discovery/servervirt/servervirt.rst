@@ -21,7 +21,7 @@ Most of the key metrics required to size a Nutanix cluster for general server wo
 - **Source Hypervisor** - The current hypervisor hosting VMs will determine which tools you are able to use to perform data collection:
 
   - vSphere - :ref:`rvtools`
-  - Hyper-V - `HyperVTools (similar to RVTools) <https://uglyvpn.com/2017/06/hypervtools-v1-8-released-with-logon-as-local-user/>`_
+  - Hyper-V - `Hyper-V Reporting Script <https://gallery.technet.microsoft.com/scriptcenter/Hyper-V-Reporting-Script-4adaf5d0>`_
   - XenServer - `Export Resource Data in XenCenter <https://docs.citrix.com/en-us/xencenter/6-5/xs-xc-pools/xs-xc-pools-export-data.html>`_
 
 - **Workload Categorization** - Especially when using data collection tools, it's critical to review output with the prospect and separate any specialized applications from the rest of the data. For example:

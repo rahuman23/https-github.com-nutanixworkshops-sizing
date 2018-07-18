@@ -13,7 +13,7 @@ RVTools is a free Windows .NET application which uses the VI SDK to collect info
 
 	While RVTools only supports VMware environments, similar reports can be generated for other hypervisors using alternate tools.
 
-	For Hyper-V, see `HyperVTools <https://uglyvpn.com/2017/06/hypervtools-v1-8-released-with-logon-as-local-user/>`_.
+	For Hyper-V, see `Hyper-V Reporting Script <https://gallery.technet.microsoft.com/scriptcenter/Hyper-V-Reporting-Script-4adaf5d0>`_.
 
 	For XenServer, `export Resource Data <https://docs.citrix.com/en-us/xencenter/6-5/xs-xc-pools/xs-xc-pools-export-data.html>`_ using XenCenter.
 
