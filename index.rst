@@ -38,7 +38,7 @@
 .. _getting_started:
 
 ---------------
-Getting Started
+Getting Started NPEF Penang Training
 ---------------
 
 Welcome to the Nutanix Sizing Workshop! This workbook provides self-paced instruction and exercises that introduce Nutanix sizing guidelines and best practices. You will also be introduced to the Nutanix Sizer tool, and work through multiple sizing scenarios.
